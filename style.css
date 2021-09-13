@@ -1,0 +1,37 @@
+.price {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+.primary-color {
+  color: rgb(19, 19, 114);
+}
+.btn {
+  background-color: rgb(19, 19, 114);
+  padding: 10px 5px;
+}
+.main-img,
+.text-with-bg {
+  background-color: rgb(138, 209, 241);
+}
+.small-img {
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.green-text {
+  color: rgb(18, 99, 18);
+}
+.text-dark {
+  text-decoration: none;
+}
+.email-box {
+  border: none;
+}
+
+@media (min-width: 1200px) {
+  body {
+    font-size: larger;
+  }
+}

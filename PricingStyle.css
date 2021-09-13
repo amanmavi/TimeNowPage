@@ -1,0 +1,13 @@
+.heading-text {
+  font-size: 40px;
+}
+.email-box {
+  border: none;
+}
+.text-dark {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+}
